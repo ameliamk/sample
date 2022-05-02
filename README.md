@@ -1,1 +1,1 @@
-# reversi
+# sample site
